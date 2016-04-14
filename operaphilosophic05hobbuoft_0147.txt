@@ -1,0 +1,52 @@
+Lux MATBEMATICA. 139
+
+PROPOSITIO IV.
+
+Arcui dato invenire rectam (equalem, et rec-tce comnovmz·
+data> (equalem areum. ΒΗ ³¹¹¹·
+Sit arcus datus Bs: ducaturque Ns, et produca-
+
+tur ad latus BC in F. Erit ergo BF aequalis arcui
+
+Be per primam. Sit deinde data recta BC lan}
+
+sumaturque semissis ejus, BF. Ducta ergo F
+
+secante arcum BG in S, erit, per primam, Bs aequa-
+
+lis rectae BF. Et duplicata Bs in t, erit arcus Bt
+aequalis lateri BC.
+
+, Erit quoque arcus Dt aequalis rectae CL, tangenti
+
+30 graduum, sive rectae Du.
+
+n:
+2
+
+PROPOSITIO V.
+
+In circulo describere polygonum regulare, nume-
+rum laterum habens datram.
+
+Exempli gratia: describendum sit in circulo cu-
+jus radius est AB, heptagonum regulare.
+
+Sumatur a puncto B septima pars rectae Bq ε da-
+tur enim pars septima rectae cujuscunque. Datur
+ergo pars septima arcus BG z quam abscindet ducta
+recta a puncto N ad partem septimam arcus BG.
+Est ergo arcus BG simul cum quinque septimiS‚
+aequalis duodecim septimis arcus BG. Est autem
+tota perimeter descripta semidiametro ΑΒ, duode-
+cupla arcus BG. Est ergo tota perimeter septupla
+arcus qui componitur ex duodecim septimis arcus
+BG. Datur autem arcus duodecuplus septimae par·
+‘tis arcus BG. Datur ergo septima pars totius pe-
+·rimetri. Datur ergo et latus heptagoni descripti
+in circu10, cujus radius est AB.
+
+Itaque quartae partis, atque adeo totius perime-
+tri, longitudinem demonstratione hae altera (sumpta
+ex cap. xx libri Hobbesii De Principiis Geometrioe
+

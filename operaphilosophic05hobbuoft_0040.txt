@@ -1,0 +1,44 @@
+32 ROSETUM GEOMETRICUM.
+
+mor. xn. rentiae inter latus DC et semidiagonalem DI vel
+
+W DO. Nam CO est ostensa aequalis dimidiae tan-
+
+²¹i¹²¹¹⁸¹¹¹³ ⁸⁰²· genti AT.
+
+ 
+
+PROP. XIII.
+
+DIFFERENTIA INTER MAJUS ET MINUS SEGMEN-
+TUM RECTAE DIVISAE EXTREMA ET MEDIA RA-
+TIONE, DUPLA EST DlFFERENTIAE INTER EAN·
+DEM RECTAM ET EAM QUAE POTENTIA EST AD
+
+IPSAM UT 5 AD 4.
+
+Srr data recta AB, eui ponatur ad angulos rectos
+BF semissis datae AB. Ergo ductae AF potentia est
+ad potentiam datae ut 5 ad 4, et ad potentiam BF
+ut 5 ad 1. Intervallo AF describatur arcus eir-
+culi, secans AB productam in z. Potentia ergo
+rectae ΑΖ est ad potentiam datae AB ut 5 ad 4, et
+ad potentiam BF ut 5 ad l.
+
+Dico differentiam inter majus et minus segmen-
+tum datae AB divisae extrema et media ratione, du-
+plam esse ΒΖ.
+
+Dividatur AB bifariam in G. Dempta ergo AG
+a tota ΑΖ, reliqua Gz est majus segmentum datae
+AB, divisae extrema et media ratione, per Elem. xiii
+prop. l. A puncto A in AB, sumatur Aa aequalis
+Gz. Quoniam igitur tum AG, GB, tum Aa, Gz
+sunt aequales, etiam Ga, ΒΖ sunt aequales. Et quia
+Aa est majus segmentum, segmentum minus erit
+aB. Major 'ergo est Gz, segmentum majus, quam
+aB, segmentum minus, duabus rectis Bz, Ga inter
+se aequalibuS, id est dupla Bz. Differentia ergo in-
+ter majus et minus segmentum dupla est, ete.
+Quod erat demonstrandum.
+

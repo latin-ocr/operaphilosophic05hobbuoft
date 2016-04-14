@@ -1,0 +1,48 @@
+PRox‘. vn.
+*γῇ-α
+
+De magnitudine
+
+arcus circuli.
+
+22 ROSETUM GEOMETRICUM.
+
+Conseet. ii. Iisdem stantibu8‚ lateri AD adjicia-
+tur in directum Dg aequalis rectae Dz, id est arcui
+CL: deinde secta tota Ag bifariam in h, centro Ῐι,
+radio ΙιΑ vel hg, describatur arcus circuli AY secans
+latus DC in Y. Erit ergo DY media proportionalis
+inter latus DC et Dz. Ducta ergo recta YQ paral-
+lela lateri BC, secante diagonalem DB in Q, erit
+YQ latus quadrati (per demonstrata ab Archimede)
+aequalis sectori DCL, sive octanti totius circuli de-
+scripti semidiametro DA.
+
+ANIMAD. Non ergo transibit YQ per intersectio-
+nem reetoe DF et arcu-s* GL, ut ille supposuit. Nam
+id refutatum sati-s· est ab Wallisio: quia si ita esset,
+recta Dz, quam hie oequalem esset dicit arcui CL,
+oequalis esset quatuor quintis lateris ; atille de-
+monstravit.
+
+Consect. iii. Sequitur hinc arcum AC aequalem
+esse compositae ex latere BC et tangente 30 gra-
+duum.
+
+Quoniam enim DC est media proportionalis inter
+arcum AC et DR z si ad DR et DC assumatur tertia
+proportionalis, erit illa aequalis lateri BC una cum
+tangente 30 graduum. Sed renovandum est dia-
+gramma.
+
+Sit ergo ABCD quadratum divisum quadrifariam,
+tum a rectis EF, GH, tum a diagonalibus AC, BD,
+concurrentibus in I. Ducantur quoque arcus qua-
+drantales AG, BD, secantes EF, GH in K et X.
+
+Sumantur in productis BC, GH rectae CL, HM,
+utraque semilateri aequalis: jungaturque ΒΜ. Ducta
+ergo ΒΜ, illa ut semidiametro describatur arcus
+circuli secans BC productam ini. Quoniam igitur
+BL potest novem semilatera‚ et LM unum, poterit
+

@@ -1,0 +1,35 @@
+LUX MATHEMATICA.
+
+ 
+
+con‘rnovnnsm 1.
+De rationum calculo per magnitudines infinitas.
+
+Wuusms librum de Arithmetica Infinitorum conrnovnn-
+ediderat, cujus propositio prima erat haec ε Si pro· ⁸¹⁴³ ¹·
+ponatur series quantitatum arithmetice proportio· s
+nulium, sive juxta ordinem naturalem numerorum
+perpetuo crescentium a punem, sive Ο, puta Ο, 1, 2,
+3, 4, etc.‚· propositum sit inquirere quam rationem
+habet earum aggregatum ad aggregatum totidem
+maximae oequalium. Concludit autem rationem esse
+nt 1 ad 2: quod verum est, nec negat Hobbesius.
+
+Quod autem ab inductione arguat cum posset
+per syllogismum, id reprehendit. Ponantur enim
+ordine numeri 0, Ι, 2, 3, 4· et supra illos eundem
+ordinem, sed inversum hoc modo, ᾖ, ξ, ἦ, ἐς, 2.
+Manifestum est aggregatum ex ambobus aequale
+esse totidem maximiS‚ et propterea utriusvis seriei
+duplum esse. Quae probatio legitima, brevis, et
+perspicua est. Vitium ergo erat inductione uti,
+quae, ubi particularia omnia percurri nequeunt, nec
+legitima est neo brevis esse potest.
+
+Reprehendit praeterea quod paulo post subjungit,
+nempe, eandem fore rationem 1 ad 2, etiamsi series
+illa quantitatum fuerit infinita. Prim0‚ quia etsi
+propositio aliqua universaliter vera sit, id est, de
+
+n 2
+

@@ -1,0 +1,43 @@
+PROP. IX.
+
+De divis
+anguli dati.
+
+28 ROSETUM GEOMETRICUM.
+
+chordis DG, GE. Quare duae ehordae DG, GE sunt
+ad duas chordas DM, DL, ut AB ad AD. Sed ut
+duae chordae DG, GE ad duas chordas DM, DL, ita
+est totus arcus DE ad arcum DL: quod sic os-
+tendo.
+
+Si bifariam secentur arcus BI et IK in a et b,
+item arcus DM, ML bifariam in c et cl, et ducantur
+bisegmentorum chordae in arcu ΒΚ ; item chordae
+bisegmentorum in arcu DL; erunt illae quoque ut
+AB ad AD: et semper ita erunt, si bisegmenta bi-
+segmentorum procederent in infinitum. Idem
+quoque verum est in bisentionibus arcuum KG et
+LE. Sed chordae bisegmentorum numero infinito-
+rum, aequales sunt ipsi arcui. Nam si omnes chor-
+dae minores essent omnibus suis arcubus, posset
+bisectio adhuc procedere: quod est contra suppo-
+situm.
+
+Est ergo tam arcus DE ad areum DL, quam ar-
+cus BC ad arcum ΒΚ, ut data AB ad datam AD,
+et ita quoque angulus datus BAC ad BAK. Est
+ergo angulus datus BAC sectus in K in data ra-
+tione AB ad AD. Quod erat faciendum.
+
+PROP. X.
+
+DE SINUBUS, SUBTENSIS, ALIISQUE LINEIS IN
+QUADRANTE CIRCULI.
+
+TAN GENS arcus graduum 223, est aequalis excessui
+quo diagonalis quadrati latus superat.
+
+Sit quadratum ABCD: in eoque inscriptus arcus
+quadrantalis BD, secans diagonalem AC in N. Ita·
+

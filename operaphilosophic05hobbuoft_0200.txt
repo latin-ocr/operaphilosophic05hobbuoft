@@ -1,0 +1,48 @@
+CAP. lx.
+b—Yaeae
+
+De solidis, et
+eorum super-
+ficiebus.
+
+192 PRINCIPIA ET PROBLEMATA
+
+2, id est sphaera, aequalis est dimidio aggregato ex
+3 et l, id est dimidio cylindro et dimidio cono simul
+sumptis ι ut est propositum.
+
+V. Ut inveniatur cylindro sphaera aequalis, docet
+etiam Archimedes lib. ii De Sphoera et Cylindro,
+prop. i. Nempe, ut sumatur cylindrus qui sit ad
+cylindrum propositum ut 3 ad 2, id est ut proposi-
+tus cylindrus ad sphaeram: deinde inter altitudinem
+cylindri assumpti et diametrum sphaerae propositae
+ut inveniantur duae mediae proportionales. Sed in-
+venire inter duas rectas datas duas medias propor—
+tionales, nondum erat cognitum. Id quo pacto
+fiat demonstravi ego in cap. hujus vii.
+
+VI. Superficies sphaerae aequalis est quatuor cir-
+culis in eadem sphaera maximis.
+
+Nam si arcus semicirculi EF circumvolvatur
+super axem EF, fiet sphaerae superficies. A puncto
+F ad circumferentiam ducatur utcunque recta FI ε
+et a puncto I ducatur recta IK parallela lateri BC,
+secans circumferentiam in K et axem in L. Erunt
+anguli ad L recti: et ut FL ad LI, ita erit LI ad
+LE: et ut FI ad FL, ita erit ΕΙ ad EL, propter si-
+milia triangula FLI, ELI. Dum autem semicircu-
+lus volvitur super axem EF, describitur a puncto Ι
+circulus IK in sphaerae superficie. Atque ita con-
+tinget, in quocunque puncto circumferentiae FE
+statuatur punctum Ι. Sed ut FE ad LE ita est cir-
+culus super FE ad circulum super LE. Sunt enim
+circuli in duplicata ratione radiorum.
+
+Quoniam ergo omnes perimetri ῙΚ faciunt su-
+perficiem sphaerae, et omnes reetae IK faciunt cir-
+culum GEHF, erit superficies sphaerae ad circulum
+GEHF, in duplicata ratione axis EF ad radium cir·
+culi GEHF, semissem ipsius EF. Sed circulus de·
+

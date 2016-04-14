@@ -1,0 +1,43 @@
+PROP. 11.
+x-q-—ae
+
+64 DOCTRINAE wALLISIANAE DE Mo'rU
+
+juxta Euclidem, ex rationibus 2 ad 3 et 4 ad 7.
+Quod est verissimum. Quomodo ἓ Fiat ut 2 ad 3,
+ita 8 ad aliam: erit illa 12. Ergo 8 ad 12 eadem
+ratio est, quae 2 ad 3. Est autem ratio 12 ad 21
+eadem quae 4 ad 7. Componitur ergo ex rationibus
+2 ad 3 et 4 ad 7, juxta mentem Euclidis. Rationis
+autem compositae 8 ad 21, sive AC ad BD, quanti-
+tates, sive (quod idem est) exponentes, sunt in
+numeris quidem 8 et 21, sed in quantitate continua
+sunt rectangula AC et BD. Manifesta haec suntt
+et propterea manifestum etiam est, neque Wallisium,
+neque, meliorem quam ille est algebristam‚ Clavium
+in definitione hac 5 Elem. vi Euclidis quicquam
+perspexisse.
+
+“ Sunto‚” ait Wallisius, “ datarum rationum in·
+dices seu exponentes A, E.’' Assumit hic datos esse
+rationum componentium indices. Sed in proposi-
+tione datos esse non supponit. Nam propositio
+nihil supponit datum praeter ipsas rationes compo-
+nentes. Assumit ergo indices seu exponentes
+rationis compositae, esse ipsas componentes. Quod
+non probat, et est praeterea falsum. Demonstratio
+igitur non procedit.
+
+Secundo, quae sunt rationes quas vult componi
+non declarat. Ratio quidem A ad E unica est.
+Ubi est altera? Nusquam. Assumit ergo A esse
+indicem rationis A ad E. Sumpta ergo ratione alia
+quacunque A ad M, erit, per illum, index rationis
+A ad M idem A ε et per consequens A ad E, et A
+ad M, eadem ratio,
+
+Tertio, quod dicit rectangulum ΑΕ esse rationem
+compositam ex duabus rationibuS‚ absurdum est.
+Rectangulum enim ratio non est. Demonstratio
+ergo falsa est.
+

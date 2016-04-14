@@ -1,0 +1,42 @@
+48 RosE'rUM GEOME‘rmcUM.
+
+per P ducatur ΥΘ, parallela BC, secans diagonalem
+
+⁸1³· 131⁷) in Q, et EF in V: compleaturque quadratum
+DYQM, cujus latus ΘΜ secet arcum AC in N.
+
+Ut ergo quadratum a DF ad quadratum DP vel
+DC, ita est quadratum a DC ad quadratum a DY.
+Est ergo quadratum ABCD 5 quorum quadratum
+DYQM est 4.
+
+J ungatur YM, quae dividet DQ bifariam. Duetae
+item PK, ΝΟ, illa lateri AB, haee lateri BC paral-
+lela, secabunt se mutuo et ad angulos rectos in
+medio rectae DQ.
+
+Quoniam igitur quadratum ABCD est ad quadra-
+tum DYQM ut 5 ad 4, erit quadratum a DQ 8 quo-
+rum quadratum ab ΥΟ, est 4, et quadratum a DC
+5, et quadratum a dimidia DQ 2.
+
+Quadratum ergo a dimidia DQ est duae quintae
+quadrati ABCD. Est ergo dimidia DQ media pro-
+portionalis inter semidiametrum DC et duas ejus
+quintas, et proinde aequalis DZ. Est autem Z cen·
+trum tum magnitudinis, tum gravitatis, quadrati
+DYQM: et punctum I centrum magnitudinis et
+gravitatis quadrati ABCD.
+
+Ostensum autem est, propositione xviii hujus,
+quadratum DYQM et quadrantem DAC inter se
+esse aequalia, et trilinea CYP, PQL‚ AMN, NQL
+esse inter se aequalia. Ergo si a quadrato DYQM
+auferantur duo trilinea aequalia PQL, NQL, et
+addantur eidem quadrato duo trilinea CYP, AMN
+ad aequales distantias a diametris aequilibrii, trilinea
+CYP, AMN aequiponderabunt. Sed distantia YP,
+MN, ΡΘ, QN sunt aequales, et aequaliter distant a
+diametris aequilibrii ΝΟ, Pk: item puncta Y, Q, M,
+D, aequaliter distant a centro gravitatis totius, Z.
+

@@ -1,0 +1,34 @@
+ROSETUM GEOMETRICUM.
+
+PROP. 1.
+
+1)ss SRCTIONR LINEAE RECTAE EXTREMA ET MEDIA
+RATIONE.
+
+DnscmnATun quadratum ABCD, · divisisque late· mor. 1.
+ribus m E, F, G, H bifariam, jungatur F E GH, quae Ψζζῖ
+
+extrem-e
+
+tro D quadrans DAC, secans FE et GH m K et Χ.
+
+Dueatur denique EX. Dico EX aequalem esse
+majori segmento rectae EF, sive lateris AB, divisi
+extrema et media ratione.
+
+Ducatur FX; eaque semidiametro describatur ar-
+cus circuli Xz, secans FE in z. Item semidiametro
+EX describatur arcus circuli Xy, secans eandem
+ΓΕ in μς ducanturque rectae Xz, Xy.
+
+Jam angulus sz aequalis est duobus angulis
+zFx‚FXz, quia hi interni, ille externus est trian-
+gulo zFX. Rursus idem angulus EzX propter ean-
+dem causam aequalis est duobus angulis Xyz, sz.
+Sunt autem Xzy et sz aequales. Quare etiam
+duo anguli XFz et sz sunt inter se aequales.
+
+Habent ergo duo triangula FXz, sz duos an-
+gulos aequales duobus angulis trianguli sz, et per
+consequens tres Δ tribue. Sunt ergo aequianguIa.
+

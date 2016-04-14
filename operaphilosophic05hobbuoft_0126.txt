@@ -1,0 +1,42 @@
+118 Lux MATHEMATmA.
+
+conmovmz- lelae et aequales, propter aequales et parallelas EX,
+Q FT. Propter eandem causam, erunt rectae Xr et-Tr
+aequales : et propter triangula aequicrura Xyr, fiyy,
+si dividatur angulus ad y a reeta qsK bifariam, erunt
+anguli ad K recti: et proinde, producta Ky ad Xr
+in a, anguli ad α erunt recti. Itaque reeta aK dividit
+
+FT bifariam et ad angulos rectos in K.
+
+Sunt ergo triangula FyK, TyK aequalia et similia:
+et rectae Fy, yT, Fs, yr, ΧΖ, ΖΤ, rs aequales. Nam
+rs, cum sit parallela EF, facit angulum rsy aequalem
+alterno syF, id est, hujus verticali Tyz: et proinde
+Tys est linea recta, et aequalis Tr: et rs aequalis ry.
+Item anguli FT y, TFy, FXy, er, Xsr, er, yTr,
+sunt aequales. Et quia anguli ad y et Ζ trianguli
+Xyz iidem sunt cum angulis ad y et Ζ trianguli Exy
+vel FXz*‚ erit angulus sz aequalis angulo ad E
+trianguli XEy, id est, angulo sxy, vel ΖΧΕ, vel
+ΖΤΕ. Itaque tres anguli ad X trianguli er sunt
+inter se aequales.
+
+Ut ergo EF ad FX, id est ad zF, ita est ΡΖ ad zs,
+(propter 28, EX parallelas), vel sF vel yF. Item,
+ut EF ad FX, sive Ey, ita est Ey ad zs sive ΕΖ.
+Sunt ergo EF, Ey, yF, ut et FE, ΡΖ, ΖΕ, continue
+proportionales: et majus segmentum est Ey, vel Fz,
+quarum utraque aequalis est rectae EX. Quod erat
+demonstrandum.
+
+Sequitur ex praecedentibus, centro pentagoni
+invento i:
+
+Primo, rectam Ti esse semidiametrum circuli
+transeuntis per puncta pentagoni E, T, et F: atque
+etiam, productis Ts, EX ad concursum in g, et rectis
+FX, Tr ad concursum in h, per g et h.
+
+‘⁸' Sic edit. 1672.
+

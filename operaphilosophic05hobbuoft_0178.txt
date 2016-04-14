@@ -1,0 +1,50 @@
+CAP. lv.
+z—-ssqae
+
+De quadratis
+figuris et qua-
+
+dratis numeris
+
+170 PRINcu’iA ET PROBLEMATA
+
+tum l si addatur 3, fiant 4, medius inter l et 16.-
+Vel si quadrato 4 addatur tripla ipsius radix, nempe
+6, fient 10, medius proportionalis inter 4 et 25. Vel
+si a 25 auferatur tripla ejus radix, nempe 15, relin-
+quetur 10 medius inter 25 et 4. Et ita semper. Ex
+quo sequitur regula generalis, quod medius propor-
+tionalis inter duos quadratos est tot radices minoris
+cum minore junctae: vel residuum post tot radices
+a majore ablatas, quot loeis in serie numerorum
+naturali majus quadratum distat a minore.
+
+vn. Manifestum hine est radicem numeri qua-
+drati non esse, ut putant algebristae‚ quadratae
+figurae latus ε neque omnino lineam, quia linea
+plano nihil addit.
+
+vul. Si duo quadrata sint proxima, ea simul
+sumpta majora sunt medio duplo quanta est unitas,
+sive una particula quadrata. Nam 1 et 4 sunt
+proxima : simul sumpta sunt 5. Duplum medii
+est 4: differentia est l. Similiter, 100 et 121 sunt
+proxima: simul sumpta sunt 221 : medium est 110:
+duplum medii 220: differentia l. Et sie ubique.
+
+lx. Si quadrata intermittant unum, extrema
+simul sumpta majora sunt duplo medio quaternario.
+Nam 1 et 9 intermittunt l, simul sumpta sunt 1οε
+duplum medium est 6: differentia 4. Item, 100
+144 intermittunt unum. Extrema simul sumpta
+sunt 244 : medium est 120: medium duplum 2402
+differentia 4. Et sic ubique.
+
+x. Si quadrata intermittant alia duo, extrema
+simul sumpta majora sunt medio duplo novenaria
+Nam 1 et 16 intermittunt duo: simul addita sunt
+17: medium duplum est 8: differentia 9. Item 100,
+et 49 intermittunt duo: simul sumpta sunt 149:
+medium est 70: duplum ejus est 140: differentia 9.
+Similiter, intermissis tribus, extrema superant du·
+

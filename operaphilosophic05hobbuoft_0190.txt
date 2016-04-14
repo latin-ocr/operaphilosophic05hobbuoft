@@ -1,0 +1,42 @@
+182 PRINCIPIA ΕΤ PROBLEMATA
+
+CAP· vt· Quod invalida est, manifestum hinc erit: quod
+
+1)e 1250oe peri- eodem argumento probari potest, supposito rectam
+
+men-i
+circ
+
+ulf-:drumm BC divisam esse in duodecem partes aequales, qua-
+dratum ejus etiam minus esse quam 144 quantum
+est idem ipsum duplum quadratum cZ. Cum enim
+quadratum Cm sit 36, rectangulum CabH minus
+erit illo quantum est quadratum bm sive cZ. Tol-
+litur enim a quadrato Cm ex una parte comple-
+mentum Eb, ex altera parte bh. Sed Εὖ majus est
+quam bh quadrato hm. Est igitur rectangulum C
+ab H minus quam 36 eodem quadratulo eZ. Prop-
+ter eandem causam rectangulum Ab minus est quam
+36 quadratulo eodem eZ. Restat ad quadratum
+totum complendum quadratum bl), quod est dimi-
+dium quadrati a tangente Ba. Juncta enim aS
+secante diagonalem in p, erit ut Sa, sive Bb, ad Ba,
+ita Ba ad bp, id est ad Hb. Est ergo ab media
+proportionalis inter Bb et bH. Est ergo quadra-
+tum bl) dimidium quadrati BabS, id est 24. Qua-
+dratum ergo totum 144 aequale est 48÷24÷36÷36
+minus duplo quadrato cZ: quod est absurdum.
+Dubitari enim 11011 potest quin quadratum ABCD
+sit 144. Invalida ergo est objectio ; at hoc praeterea
+habet vitii, quod quadratum a BL minus faciat quam
+360, 11011 duplo, sed quadruplo quadrato eZ.
+Quaerenda ergo est discordiae hujus causa. Ea
+autem alia esse 11011 potest, quam computatio linea·
+rum sine latitudine in rationibus superficierum:
+unde necessario sequitur id quod continetur intra
+quatuor latera BL, LZ, ZM, ΜΒ, minus esse decem
+quadratis a BE quantum est duplum cZ: latera au-
+tem ipsa quadruplo cZ esse aequalia. Quadratum
+ergo a BL decuplum esse quadrati a semilatere,
+manet inconcussum et manebit. Nullo enim argu-
+

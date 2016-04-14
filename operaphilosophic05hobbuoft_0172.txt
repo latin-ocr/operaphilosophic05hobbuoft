@@ -1,0 +1,40 @@
+CAP. n.
+
+164 PRINCIPIA ET PROBLEMATA
+
+aequales 100000, ct media sumeretur tum geomess
+trica tum arithmetica inter totam et partes ejus
+99999: quantulam differentiam haberent inter se
+duae illae rationes geometrica et arithmetica! Itaque
+quo minor est differentia inter extremas, eo ubique
+minor est differentia inter mediam geometricam
+et arithmeticam. Quare si tales mediae ubique in-
+terponerentur‚ differentia earum omnis evanesceret.
+Est ad inventionem rationum quas habent recti-
+linea ad curvilinea, propositio haec utilissima.
+
+ 
+
+CAP. III.
+
+De operationibus algebricis.
+
+1. ALGEBms'rAE pro rebuS‚ id est pro magnitudini-
+bus, literas quasi species rerum exponunt: quas
+addere, substrahere, multiplicare, et dividere do-
+cemur hoc modo. Si species solitariae sunt, ut
+A et B, adduntur interponendo signum ψ, quod
+significat plus, Sin ab A substrahenda sit B, in-
+terponunt signum —‚ quod significat minus, sive
+mulctam. Itaque A—B, est id quod restat mag-
+nitudinis A postquam ab illa ablata est B. Multi-
+plicatio per numerum, est quando numerus mul-
+tiplicans praefigitur: ut 2A‚ 3A, etc. Multiplicatio
+A per se, perficitur scribendo AA vel Aq. Linea
+multiplicari in se non potest. Atque hic primum
+discedunt algebristae hujus seculi a Diophanto et
+veteribus, qui intra arithmeticam se continue-
+runt. Si multiplicanda sit A in B, scribunt AB.
+Dividi A per B intelligitur, si scribatur 1⁴7: quod
+significat quotientem. Ut si sit A 10, et B 2:
+

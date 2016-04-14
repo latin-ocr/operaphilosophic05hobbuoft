@@ -1,0 +1,46 @@
+CAR V·
+
+De angulis.
+
+174 PRINCIPIA ET PROBLEMATA
+
+Be. Sed chorda arcus dimidii BC est recta Bb,
+quae major est quam Be. Ergo, per cap. i. num. 2,
+minor est ratio arcus minoris Bb ad suam chordam
+Bb, quam arcus majoris BC ad BC chordam suam.
+
+x. Sequitur hinc, si arcus Bb fuerit bisectus‚ et
+bisegmentum ejus fuerit rursus bisectum‚ et sic
+perpetuo quoties fieri potest, fore ut perveniatur
+tandem ad segmentum arcus cujus excessus supra
+chordam propriam minor sit omni longitudine data ε
+et, per consequens, minor latitudine lineae cujus-
+cunque latitudinem habentis quantulamcunque.
+
+xi. Similiter, si linea recta bisecetur, et hiseg-
+menta ejus rursus bisecentur quoties fieri potest,·
+pervenietur tandem ad segmentum minus omni
+quantitate assignabili, et proinde minus quam lati-
+tudo lineae latitudinem habentis quantulamcunque.
+
+XII. Illud autem dictum universale, arcus omnis
+major est sua chorda, universaliter verum esset si
+daretur arcus circuli et linea recta cujus nulla esset
+latitudo. Sed nec datur linea sine latitudine, ne-
+que, si daretur aut supponeretur tantum, intrare
+posset in demonstrationem ubi agitur de ratione
+superficierum aut solidorum, quia sunt diversa ge-v
+nera quantitatis: quod constat ex definitione 5,
+Elem. v. Euclidis. Nec Wallisius, puto, aliter sen·v
+sisset, nisi quod definitio illa in Oughtredi Clave
+Arithmeticae inter principia algebrae non inve-
+niatur.
+
+xlu. In omni triangul0‚ si angulus sectus sit bi-
+fariam, et recta quae secat angulum secuerit etiam
+basem: segmenta basis erunt in ratione laterum.
+Est, Eucl. Elem. vi, prop. 3, perspicue demon4
+strata.
+
+xxv. Est aliud genus anguli plani quem vocant
+

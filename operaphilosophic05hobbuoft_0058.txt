@@ -1,0 +1,40 @@
+50 RosETUM GEOME'rmcUM.
+
+Quoniam enim quadratum ab AB est ad quadra-
+
+ἡ. tum a ΒΧ, sive BT, ut 3 ad 1, et quadratum a semi-
+⁰· diagonali BI est dimidium quadrati ab AB: erit
+
+quadratum a BI ad quadratum a BT ut 1}- ad l, id
+est, ut 3 ad 2.
+
+Est autem trilineum ABCLA ad bilineum ALCA
+ut 2 ad 3: quod sic ostendo.
+
+Gnomon YBM est quinta pars quadrati DYQM,
+id est, quinta pars quadrantis DAO. Quare etiam
+trilineum ABCLA est quinta pars, sive duae decimae,
+quadrati ABCD. Est autem triangulum ABC di-
+midium, sive quinque decimae, quadrati ABCD.
+Sed quadrans DAG est quatuor quintae, sive octo
+decimae, quadrati ABCD. Est ergo bilineum
+ALCA tres decimae quadrati ABCD.
+
+Est igitur ratio trilinei ad bilineum eadem quae
+2 ad 3: id est, reciproca rationis tum magnitudinum
+ALCA, ABCLA, tum quadratorum BI, BT. Jun-
+gatur AF secans diagonalem BD in α. Quoniam
+ergo AB est dupla BF, et angulus ABF a recta Ba
+divisus bifariam, erit Aa dupla aF. Est ergo
+punctum a centrum gravitatis totius trianguli ABG.
+
+Secetur aT bifariam in b, sumaturque ac tripla
+Tb, sitque centrum librae a. Erit ergo ut trilineum
+ABCLA ad bilineum ALCA, id est ut 2 ad 3, ita
+reciproce ca ad αΤ, nempe ut 3 ad 2. Est ergo T
+centrum gravitatis bilinei ALCA, et punctum c
+centrum gravitatis trilinei ABCLA. Quod erat
+demonstrandum.
+
+FINIS.
+

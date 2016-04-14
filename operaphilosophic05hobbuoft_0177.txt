@@ -1,0 +1,45 @@
+AmQUOT Geoummca E‘rc. 169
+
+auferatur l, restat 3 medius inter quadratos 9 et 1. mr·- tv·
+
+Denique 400, 361, 324 sunt quadrati deinceps prox· n, quami.
+
+imi. A medio 361 si auferatur unitaS‚ restat 360 ΐζζζζ
+medius inter extremos 400 et 324. Et sic dein-
+
+cepa.
+
+w. Inter duas figuras quadratas proximas, si
+quadrato minimo addatur radix sua, totum erit iffi·
+ter ipsas medium proportionale. Nam si quadrato
+l addatur radix sua, quae est una: totum 2 est me-
+dium proportionale inter l et 4. Similiter, si qua-
+drato 4 addatur radix sua, totum 6 est medium
+proportionale inter 4 et 9. Et sic perpetu0, ut
+manifestum est per inductionem.
+
+v. Si a quadrato radix sua auferatur, relinquetur*
+medium inter ipsum et quadratum proxime minus.
+Sit enim quadrata figura 10οε si anferatur inde
+radix ejus 10, relinquetur 90, medius proportiona-
+lis inter 100 et 81, quadratum proxime minuS.
+Similiter, si a quadrato 9 auferatur radix sua 3,
+relictus 6 erit, medius inter 9 et quadratum prox-
+ime inferius 4. Et sic semper.
+
+Sin quadrata non sint proxima, sed intermittant
+unum, minus quadratum cum duabus radicibus est
+medium inter illa duo quadrata proportionale.
+Nam si quadrato 1 addantur duae ejus radices, id
+est 2, fient 3, media proportionalis inter 1 et 9.
+Item si quadrato 4 addantur duae ejus radiceS, id est
+4, fient 8, medium inter 4 et 16. Et sic per-
+petuo. Idem medium habebitur, si a majore qua-
+drato duae ejus radices auferantur. Nam si a 16
+duae ejus radices auferantur, restabunt 8, medium
+inter 16 et 4.
+
+Si denique duo quadrata intermittant alia duo, et
+quadrato minori addatur tripla sua radix, habebitur
+medium inter quadrata extrema. Nam ad quadra-
+

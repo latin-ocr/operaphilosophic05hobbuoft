@@ -1,0 +1,41 @@
+ROSBTUM GROMBTRICUM. 13
+
+Ducta ergo Ale secante arcum ΟΕ inb, erit chorda nor. m.
+Bk ad chordam Ch ut 8 ad 7. Et per consequens, mi,
+quatuor chordae Ch ad quatuor chordas Cg ut· 8 *⁸⁸⁶¹*
+ad 7. Similiter, si duo arcus Ch et Cg bisecentur,
+et eorum bisegmenta in infinitum, eorum ehordae
+singulae ad singulas, erunt in ratione 8 ad 7. Sed
+chordae sie sumptae in quovis arcu infinitieS, sunt
+omnes simu] ipse arcus. Quare arcus Oc est affl
+arcum ΟΕ ut 8 ad 7. Et arcus Cc est septima pars
+totius perimetri per C. Ergo ducta recta Cc, est
+latus heptagoni in circulo per C.
+
+Ducta autem Ae abscindit septimam partem pe-
+rimetri per B.
+
+Ammo. Quod chordas partium arcus irfini- Ι
+ties sumptas aequales dicat esse simul sumptas
+ipsi arcui, incredibile est. Sic enim singula>
+chorda» oequales deberent esse suis arcubus, quod
+est impossibile.
+
+Nam si singulae chordae singulis arcubus quos
+subtendunt non sunt aequales, possunt illi arcus
+singuli et eorum bisegmenta rursus bisecari: quod
+est eontra suppositum. Inventum ergo est latus
+heptagoni: quod est propositum.
+
+Consect. i. Ex hae demonstratione apparet me-
+thodus inveniendi partem septimam anguli dati.
+Nam ad arcus dati utrumque terminum si a centro
+circuli ducantur lineae rectae, deinde semidiameter
+secetur octofariam, sumanturque a centro partes
+ejus septem, descripto inde circulo erit arcus major
+ad minorem ut 8 ad 7. Quare duo arcus majoris
+bisecti ad duos arcus minoris biseeti, erunt ut 8
+ad 7. Etiam eorum chordae erunt nt 8 ad 7.
+ltaque duae chordae majoris ad arcum minorem
+applieotae determinabant excessum septimae partis
+

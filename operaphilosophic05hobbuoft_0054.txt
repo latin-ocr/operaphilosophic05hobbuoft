@@ -1,0 +1,50 @@
+ἐᾷς
+
+46 ROSETUM GEOMETmcUM.
+
+mov. xm. est duabus quintis arcus quadrantalis descripti ab
+
+κ-Ὓ-κ
+t r rectum
+
+tam et ipsius
+midimn etc.
+
+AB: ducanturque FG, GC. Deinde, divisa CF
+bifariam in l, centro lradio ZF describatur semicir-
+culus per F et G, qui transibit per C: quod sic
+ostendo.
+
+Recta AC, cujus quadratum est quintuplum qua-
+drati BC, est media proportionalis inter arcum
+quadrantalem descriptum ab AB et ejus dimidium:
+ut ostensum est ad prop. vi. Itaque ΟΕ aequalis est
+dimidio arcui quadrantali descripto ab AB: nam
+propter angulum rectum ad Ε, ΟΕ est media inter
+ambas ΟΕ, EA, et earum utramvis. Quare BF est
+aequalis dimidio arcus quadrantalis descripti ab AB.
+Est autem BG ad BF et totam AB in ratione con-
+tinua, tertia, per prop. vii. Quoniam igitur arcus
+quadrantalis ab AB, ipsa AB, duae quintae arcus
+quadrantalis ab AB, sunt continue proportionales,
+erit ut duae quintae arcus quadrantalis ab AB, sive
+recta Bk, ad dimidiam AB, ita AB ad dimidium
+arcum quadrantalem ab AB. Est ergo ut AB ad
+BF, ita DG ad BC. ’
+
+In arcu ABG applicetur a puncto A recta AH,
+aequalis BC. Erunt ergo AB, CH aequaleS, et prop-
+terea arcus HE, ΕΒ, sive anguli HCE, ECF, aequa-
+les: et rectae HF, BF, item CF, AF aequales: et
+DE producta dividet angulum AFC bifariam.
+
+Similia ergo sunt triangula ABF, GBC. Quare
+anguli BGC, BAF sunt aequales, item anguli BCG,
+BFA aequaleS. Et propter angulum CHA rectum,
+et CH aequalem AB, triangula ABF, FBG sunt
+similia et aequalia. Ergo aequales inter se sunt tum
+BF, GC, tum CH (sive AB) et FG.
+
+Et divisa AG bifariam in h, centro Ιι, radio hA
+descriptus semicirculus transibit per F.
+

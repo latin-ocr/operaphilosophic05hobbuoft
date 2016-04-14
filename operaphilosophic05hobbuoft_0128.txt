@@ -1,0 +1,55 @@
+120 Lux MATHEMATICA.
+
+con-rnovssn- suppositionem, quod si arcus divideretur in tot
+
+Q partes aequales in quot dividi intelligibile est,
+
+chordas illorum arcuum simul sumptas aequales
+
+esse ipsis arcubus simul sumptis. Ex eo autem
+
+probat, quod si aequales non sint, esse eos adhuc
+
+perpetuo bisecabiles. Itaque sententiam hac in re
+
+disjungo: aut non assuetum Wallisium lectioni
+
+demonstrationum geometricarum propter studium
+
+algebrae, demonstrationem Hobbesii intelligere non
+
+potuisse: aut, tuendae dignitatis causa, dixisse id
+
+quod sciebat esse falsum. Sententiam accipiat
+
+utram malit. De propositione ipsa sic censeo.
+
+Vera est, nova, bene demonstrata, illis qui ductum
+
+orationis animo attento sequi vellent evidentissima,
+
+methodo artificiosa, generali, et quamquam hepta-
+
+gono, pentagono‚ et trigono tantum applicata,
+omnibus polygonis applicabili.
+
+Propositio Roseti iv, geometrica quaestio non est,
+sed sensus communis sive rationis naturalis per
+quam fiunt definitiones. Nam qui quaerit duarum
+linearum sive superficierum, utra sit magis curva,
+curvi quaerit naturam: quam Hobbesius consistere
+dicit in discessu a rectitudine per flexiones, id est,
+minorem esse curvedinem circuli majoris quam mi-
+noris: nimirum, quia majorem minus afficit flexio
+eadem quam minorem.
+
+’ Describantur enim (fig. iv) duo circuli centro A
+concentrici‚ BCDE, bede: qui rectis BD‚EC per
+centrum dividantur quadrifariam. Ductis ergo
+chordis BC, CD, DE, ΕΒ, bc, cd, de, eb, manifestum
+est minores esse chordas minoris circuli quam ma-
+joris, in quotcunque partes aequales uterque circu-
+lus sit divisus. Plus ergo restat lineae non flexae,
+
+id est rectae, in majore quam in minore. Accedit
+

@@ -1,0 +1,47 @@
+20 Rosa‘rnM anonim-mcum.
+
+SCHOLIUM.
+
+rnor— v1. Si duae rectae quaecunque mediam habeant inter
+ne magnitudine se proportionalem, quae sit aequalis lateri AB: erit
+”⁰⁰⁸⁰⁵‘⁰¹¹¹³· ut arcus AC ad unam earum, ita reciproce reliqua
+earum erit ad duas quintas ipsius arcus⁸AC. Exempli
+
+causa: quia latus AB est media proportionalis inter
+
+arcum AC et duas ejus quintas, eademque media
+
+inter diagonalem AC et semissem ejus DI: rectan-
+
+gulum sub arcu AO et duabus ejus quintis, aequale
+
+erit rectangulo sub BD et semisse ejus DI. Ut
+
+ergo arcus AG ad diagonalem suam AG vel BD, ita
+
+erit semidiagonalis DI ad DR. Et ut semissis arcus
+
+AO ad semidiagonalem‚ ita est semidiagonalis ad
+
+Con-sect. Apparet hinc magnitudo octantis totius
+
+perimetri. Nam si rectae DR addatur Rz, pars ipsius
+
+quarta: erit tota Dz quinque decimae, id est semissis,
+
+arcus AC. Cum enim DR sit duae quintae, id est
+
+quatuor decimae, erit Dz quinque decimae.
+
+PROP. VII.
+
+nsum stantibus, ducatur recta DF. Dico DF
+mediam esse proportionalem inter arcum Ac et
+ipsius semissem.
+
+Ducatur recta Rr parallela lateri BC, secans dia·
+gonalem DB in r et DF in d. Quoniam ergo DF
+secat latus BC bifariam in F, secabit Dd rectam Rr
+bifariam in cl. Ducatur LN parallela eidem lateri
+BC, secans DF in e et latus DC in N. Erunt ergo
+

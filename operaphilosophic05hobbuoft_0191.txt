@@ -1,0 +1,46 @@
+Αιιαυοτ osone-rium mc, 183
+
+mento probari potest quadratum a BL minus esse
+decuplo quadrato a BE, quin eodem probabitur
+quadratum a BC minus esse quatuor quadratis
+ejusdem BE. Impedimentum ergo geometriae unum
+per huJus difficultatis solutionem, et fortasse maxi-
+mum, sustulimus: nimirum, computationem super-
+ficierum per lineas sine latitudine. x
+
+ 
+
+CAP. VII.
+
+De mediis proportionalibus.
+
+1. lna-nn duas rectas datas mediam invenire pro-⁷
+
+portionalem, docetur ab Euclide vi. prop. 13.
+
+11. Inter datam rectam et ipsius semissem inve-
+nire duas medias proportionales. Sit data (fig. iv)
+reeta Dc, et ipsius semissis CG. Disponantur au-
+tem ad angulos rectos in C. Deinde fiat quadra-
+tum DABC ε seceturque tum a diagonalibus AC,
+BD, tum a rectis ᾔ, qp concurrentibus in H qua-
+drifariam. Sumatur inter BC et semissem ejus CG
+media proportionalis: est autem ea aequalis semi·
+diagonali HC. Radio HC describatur arcus Cm,
+secans qp productam in m. Seceturque arcus Cm
+trifariam (id qui fiat, demonstratum est in Luce
+Mathematica ad CoNTRov. xii) in k et l : ducan-
+turque Hk, Hb secantes DC in n et ο. Sumatur
+autem Cx aequalis Cn. Ducatur xa parallela et
+aequalis Cp, secans HC in e. Est ergo Ce qua-
+dratum. Similiter, per punctum ο dueatur paral-
+lela lateri BC, secans HC in b: et per b recta bc,
+secans Hp in e: eruntque tum eb, tum Hb qua-
+drata. Nam sunt rectangula super diagonalem
+
+CAP. Vl.
+bqr—d
+metri ad rudium
+
+circuli.
+

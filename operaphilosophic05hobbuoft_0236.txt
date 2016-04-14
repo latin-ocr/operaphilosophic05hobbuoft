@@ -1,0 +1,42 @@
+PROP. Vl.
+κ--Υ--κ
+
+228 TRACTATUS OPTICUS.
+
+minus lucis B erit immersus in medium densum
+quanta est distantia minima inter rectam ED et
+sibi parallelam GFL, sive quantitate lineae LM,
+tunc cum alter terminus est in superficie ejusdem
+medii densi. Ducta igitur recta a puncto E ad
+rectam GL, eadem longitudine qua est linea lucis
+AB, vel CD, quae sit EF, erit jam EF linea lucis
+propagata eousque. Quoniam autem latera radii
+exeunt a linea lucis perpendiculariter, ducantur
+perpendiculares ad ipsam EF rectae EN, FO, pro-
+pagabitur lux inter parallelas EN, FO. Quare
+EFNO erit radius refractus, et cadet necessario
+latus EN inter EI et perpendicularem ad planum,
+quae est ΕΚ, et latus FO inter BD productam et
+perpendicularem ad idem planum sibi contermi-
+nam. Jam si pro latitudine AB sumamus latitu-
+dinem radii minorem quavis magnitudine data, de-
+monstratio haec eadem existens applicabitur lineae
+EN, ut EN sit ipse radius refractus versus perpen-
+dicularem EK. Quare radius e medio raro, etc.
+Quod erat probandum.
+
+PROPOSITIO VII.
+
+Radius e medio denso incidens oblique in medium
+rarius, cnjus superficies est plana, refringitur
+in partes aversas a perpendiculo.
+
+Sit ΕΙ) in superficie plana medii rarioris, ita ut
+quod est supra ED sit medium densius, quod infra
+rarius. Sitque in medio denso linea lucis, puta
+solis diametrum, AB: a qua exeat radius cujus
+latera ΑΕ, BD sint ad AB perpendicularis„ et ad
+planum ED obliqua. Propagato igitur altero lucis
+termino ad planum ED in puncto D, alter terminus
+non propagabitur simul ad planum in puncto E,
+

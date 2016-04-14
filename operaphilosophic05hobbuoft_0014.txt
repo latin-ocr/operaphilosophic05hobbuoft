@@ -1,0 +1,47 @@
+PROP. 1.
+b-r—-d
+
+De sectione
+linem rectae etc.
+
+6 RosETUM GEOMETRICUM.
+
+Quare ut XF vel EX ad Xz, ita est Xz vel Xy
+ad κῃ.
+
+Quod autem anguli zEX, zXE sunt aequales, de-
+monstrationem habet ex hactenus constructis diffi-
+ciliorem. Ostendam autem etiam illos aequales
+esse; et primo, per reductionem ad impossibile.
+Ducta enim per punctum X reeta lm secans ΑΕ in
+l, ita ut XI aequalis sit et parallela rectae EI, erunt
+duo recti mxl, IXl aequales quinque angulis mXF,
+FXy, yXae, zXE, EXZ. Ostendam autem hoe esse
+impossibile, nisi anguli zEX, zXE sint aequales.
+
+Nam si utervis angulus, puta angulum ad X, tri-
+anguli zEX, reliquo ad E major sit ; ut fiant aequa-
+les, sumendum est punctum z paulo inferius, ita ut
+Xz, zE sint aequales. Idem faciendum est de recta
+Xy, cujus punctum 3] removendum est versus F.
+
+Itaque angulus novus zXE minor erit quam sz,
+et multo minoi· quam angulus sz remotus: et
+idem angulus sz remotus, multo major quam an-
+gulus FXy remotus. Sunt autem duo anguli mXF,
+IXE aequales uterque angulo zEX. Quare si angu-
+lus zXE descriptus major sit angulo zEX, impossi-
+bile est ut duo anguli recti mX1,E1X dividantur
+quinquifariam. Idem ostendi potest, si angulus
+zEX supponeretur major reliquo zXE. Sunt ergo
+anguli zEX, zXE, FXy aequales ; et proinde reetae
+quatuor Fy, yx, Xz, zE inter se aequales.
+
+Secund0‚ si semidiametro Ez descripsero arcum
+circuli secantem EX in r, idem demonstrabo brevi·
+ter et perspicue etiam a priore. Quoniam enim
+tum EX, EY, tum Ex, Er sint aequaleS‚ aequales
+quoque erunt rX, κῃ. Ducta ergo ry, erunt yx, yr
+aequaleS. Itaque in triangulis Xyr, Xyz omnia erunt
+aequalia. Ergo anguli sz, ΧΨ sunt aequales: item
+

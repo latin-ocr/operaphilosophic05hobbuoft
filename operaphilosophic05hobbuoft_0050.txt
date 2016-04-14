@@ -1,0 +1,48 @@
+PROP. xvm.
+
+42 ROSETUM GEoME'rRmUM.
+
+in Ι, quadrifariam: ducaturque DF secans arcum
+CL in Ρ, et per punctum P ducatur YQ secans dia-
+
+¹⁸ gonalem BD in Q: eruntque DY, ΥΘ, aequales.
+
+Radio DF describatur arcus Fe, secans diago-
+nalem BD in c, ut sint DF, Dc aequales.
+
+Dico quadratum ab YQ, vel DY, aequale esse
+superficiei octantis circuli DCL.
+
+A puncto c ducatur cZ parallela YQ, secans DC
+in z. Est ergo Ze (per prop. vi hujus) semissis
+arcus AC, et propterea aequalis arcui CL. In arcu
+CL sumatur arcus LV aequalis CP, jungaturque
+DV secans YP in X: eritque trilineum CPY totum
+intra sectorem DCL; trilineum autem PQL totum
+extra sectorem eundem.
+
+Sunt autem ambo trilinea simul (ut antehac
+ostendi, et nunc ostendam) aequalia sectori DPV.
+Quoniam enim recta BC secta est bifariam in F, et
+triangulorum DCB, DYQ bases sunt parallelae,
+etiam basis ΥΘ, secta est bifariam in P: et trian-
+gula DYP, DPQ aequalia sunt.
+
+J am DPL plus PQL plus CPY, sunt aequalia DVL
+sive DCP: quia DPL plus PQL, est aequale DYP.
+Nam DCV plus DVP, aequale est DCP sive DVL.
+
+Quare DPL plus PQL plus CYP, aequale est DCV
+plus DVP.
+
+Ablatis igitur utrinque aequalibus DPL, DCV,
+restat PQL plus CYP aequale sectori DVP. Et
+hactenus assensere adversarii. Concessere hoc
+quoque, (nam manifestum est), quod si CYP, PQL
+sunt inter se aequalia, aequalia etiam esse triangu-
+lum DQY et sectorem DCL.
+
+Demonstratum autem putaram ante, ex eo quod
+triangulum cujus vertex sit D et basis parallela
+lateri BC, aequale sectori DCL nullum constitui
+

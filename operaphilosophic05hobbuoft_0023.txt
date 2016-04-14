@@ -1,0 +1,51 @@
+Rosnrtm Gssomn'rmcum. 15
+
+Experiamur eandem rursus methodum ab hexa-
+gono nd pentagonum.
+
+Pnox’. 111.
+
+wd
+
+De polygoni·
+
+Centro A, semidiametro AB, describatur circu· ''³⁸⁰¹“‘bu‘
+
+lus BCD ε et in circumferentia ejus a puncto B ap-
+plicetur chorda BD, aequalis semidiametro AB.
+Ducta ergo chorda BD erit latus hexagoni in cir·
+culo per B. ἱ
+In semidiametro AB sumatur ΑΕ, quae sit ad AB
+ut 5 ad 6: et centro eodem A, radio ΑΕ, describa-
+tur circulus EFG. Erit ergo perimeter per B ad
+perimetrum per E, ut 6 ad 5. Secetur BD a recta
+Ac (secante circulum per E in F) bifariam in C;
+ducanturque chordae BC, CD z quibus aequales ap-
+plicentur in circulo per E chordae ΕΗ,ΗΙ.
+
+Sunt ergo duae chordae EH, HI ad duas chordas
+
+EF, FG ut arcus BD ad arcum EG, id est ut 6 ad 5:
+et arcus EI ad arcum EG ut 6 ad 5. Est ergo ar-
+cus GI quinta pars arcus EG, id est trigesima pars
+perimetri: et totus arcus EI sex trigesimae partes,
+id oet pars quinta, totius perimetri per E. Eadem
+est demonstratio quae in heptagono. Ducta ergo
+chorda EI, est latus pentagoni in circulo per E.
+
+Coroll. i. Potest ergo inveniri latus pentagoni
+sine ope sectionis semidiametri in extremam et
+mediam rationem.
+
+ANIMAD. Concinna quidem lzaec sunt.- sed caveat
+lector concinnitas ista ne fraudem ferat, adeatque,
+
+εἰ sapit, examen illud acccuratissimum, Ama-RMB-
+‘rmAM SPEclosAM.
+
+⁷ Coroll. ii. Ut ab exteriore circulo ad interiorem
+hactenus processit demonstratio, ita procedet etiam
+ab interiore, ut ex trigono dato inveniatur tetrago-
+num, pentagonum ex tetragono, hexagonum ex
+pentagono, et sic deincepS. Dato enim latere pen-
+

@@ -1,0 +1,46 @@
+14 ROSETUM GEOMETRICUM.
+
+mov. ιιι. minoris perimetri supra partem octavam ejusdem
+
+lm perimetri. Manifestum enim est arcum Ee esse
+
+“³⁸⁰¹fflbu‘ septimam partem arcus Ce. Nam sive arcus divi·
+dendus sit septima pars perimetri, sive major, sive
+minor, demonstratio erit semper eadem.
+
+Conseet. ii. Arcus descriptus radio BC, aequalis
+est octavae parti perimetri circuli cujus radius est
+AB et pars septima perimetri per AC, et pars sexta
+perimetri per punctum sextum rectae AB etc.
+
+Experiamur methodum hanc nostram in poly-
+gonis notis, et videamus an per illam ex tetragono,
+id est quadrato, inveniri potest trigoni latus.
+
+Describatur centro A circulus BCD, cujus BD
+sit quadrans. Ducta ergo chorda BD, est in eo
+circulo latus tetragoni.
+
+Centro eodem A, semidiametro AE, quae sit ad
+AB ut 3 ad 4, describatur circulus EFG. Erit ergo
+circulus per B ad circulum per E ut 4 ad 3.
+
+Secetur quadrans BD bifariam in C, ducanturque
+chordae aequales BC, CD. Ducta ergo AC secante
+EG in F, erit arcus EF pars octava perimetri per
+E, et aequales arcui F G.
+
+Ergo tum arcus tum chordae BC, CD, erunt tum
+ad arcus tum ad chordas EF, FG ut ad 4 ad 3.
+
+Jam a puncto E in circulo per E applicentur
+EH, HI duabus chordis BC, CD, utraque utrique
+aequaliS. Quare duae chordae EH, HI sunt ad duas
+chordas EF, FG ut 4 ad 3: id est, ut arcus BD ad
+arcum EG. Quare ut arcus El ad arcum EG, ita est
+4 ad 3. Ergo arcus GI est tertia pars arcus EG, id
+est pars duodecima totius perimetri per E : et arcus
+EI, tertia pars perimetri ejusdem. Demonstratio
+eadem est quae de heptagono. Ergo ducta chorda
+EI, est latus trigoni in circulo per E.
+

@@ -1,0 +1,37 @@
+Anonos· onom-:Tmen E‘rc. ¹71
+
+plum medium sedenario: et sic deinceps per nume· cn· tv-
+ros quadratos per totam seriem quadratorum. nequam.
+xl. Inter duos extremos cubos duo intercedunt {ffi'ss'ssssffl
+numeri medii proportionales. Inveniuntur autem
+hoc modo. Si cubi sint proximi, dividatur cubus
+minor per suam radicem: deinde multiplicetur
+quotiens per numerum qui radicem unitate superati.
+Ptoductus erit mediorum minor. Exemplum: sint
+cubi 1 et 8 proximi. Dividatur cubus minor l per
+suam radicem l: quotiens erit l. Deinde multi-
+plica l per 1÷1‚ id est 2: numerus hic 2 est minor
+mediorum inter l et 8. Mediorum maj0r invenitur
+eadem methodo. Diviso 2 per l, fit quotiens 2.
+Multiplicato deinde 2 per 1÷1, fit major mediorum⁷
+4. Postremo, diviso 4 per l, quotiens est 4, et
+multiplicato 4 per l÷l fit 8. Vel sit cubus minor
+64, radix ejus 4, cubus proxime major 125: diviso
+64 per 4, quotiens est 16: multiplicato 16 per 4÷1
+fit 80, mediorum primus. Rursus, diviso 80 per 4,
+'quotiens est 20: qui multiplicatus per 4÷1 facit
+100, medium majorem. Postremo, si dividatur 100
+'per 4, quotiens erit 25, qui multiplicatus per 4÷1
+facit 125.
+· xu· Si duo numeri cubi intermittant unum nu-
+merum cubum, dividatur cubus minor per suam
+radicem, et multiplicetur quotiens per radicem plus
+2, productus erit minor mediorum. Sint cubi 1, 27 ε
+diviso l per l, quotiens est l: qui multiplicatus per
+l plus 2, facit 3, minorem mediorum. Rursus, 3
+divisus per l est 3: multiplicatus autem 3 per 1÷2
+facit 9, maj0rem mediorum. Postremo, 9 divisus
+per 1 est 9: qui multiplicatus per 1÷2 est 27.
+· 1111. Similiter, si cubi sunt 8 et 64, diviso 8 per
+suam radicem 2, quotiens est 4: et 4 multiplicatus
+

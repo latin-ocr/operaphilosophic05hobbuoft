@@ -1,0 +1,51 @@
+,CAP. lv.
+
+bqr-⁶
+De quadratis
+figuris et qua-
+dratis numeris.
+
+172 PRINcu‘iA ET PROBLEMATA
+
+per 4 facit 16, medium primum: et diviso 16 per 2,
+fit 8, qui multiplicatus per 2÷2, facit 32, medium
+secundum. Denique, 32 diviso per 2, quotiens est
+16; qui multiplicatus per 2÷2 facit 64. Similiter,
+si cubi sint 27 et 125, diviso 27 per 3, quotiens est
+9: qui multiplicatus per 3÷2 facit 45, medium pri-
+mum. Rursus, diviso 45 per 3, quotiens est 15:
+qui multiplicatus per 3÷2 est 75: et 75 diviso per
+3, quotiens est 25: et hic multiplicatus per 342
+facit 125. Et sic semper in cubis intermittentibus
+unum.
+
+Si duo numeri cubi intermittant duos numeros
+cubOS, diviso minore per suam radicem, quotiens
+multiplicatus per radicem plus 3 dabit medium pri·
+mum. Sint cubi 27 et 216 intermittentes cubos
+suos, nempe 64 et 125: diviso 27 per suam radicem,
+quotiens est 9 ε qui multiplicans radicem 3÷3 facit
+54, medium primum. Diviso 54 per 3 fit 18: qui
+multiplicatus per 3÷3, facit 108. Postremo, diviso
+108 per 3, quotiens erit 36: qui multiplicatus per
+343 facit 216.
+
+Si duo numeri cubi intermittant tres numeros
+cubos, et cubus minor dividatur per suam radicem,
+et quotiens multiplicetur per illam radicem plus 4:
+productus erit mediorum primus. Et sic per omnes
+cubos numerorum quisunt in serie naturali, additis
+5, 6, 7 etc„ invenientur medii primi inter duos
+cubos quoscunque.
+
+ 
+
+ 
+
+CAP. V.
+
+De angulis.
+
+1. ANGULUS rectilineus est digressio duarum rec-
+tarum ab eodem puncto in circumferentia.
+

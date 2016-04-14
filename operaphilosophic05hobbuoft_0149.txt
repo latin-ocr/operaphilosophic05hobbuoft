@@ -1,0 +1,48 @@
+Lux MArnssMA'nca. 141
+
+tabile quidem est3 sed quoties supponitur, dicitur con-ruovn-
+tantum: ita ut nihil inde affirmati deduci possit, ,ω '⁵¹¹2
+neque ab eo supposito quicquam confutari. A'dde,
+
+quod linea sine latitudine ne duci quidem possit: et
+
+proinde illis qui inde aliquid demonstrare cupiunt,
+
+sine diagrammate demonstrandum est. Wallisius
+
+igitur, si longitudinem semidiametri pro latere quu-
+
+drati sumpsit more suo, nihil agit. Sin lateri lati-
+
+tudinem concedat, et per consequens etiam diago-
+
+nali: conclusionem Hobbesii infirmare non potest.
+
+Ostendam, secundo, quod quatuor quintae radii
+non est major duarum mediarum inter radium et
+semiradium.
+
+Repetatur jam figura Controversia? hujus xii
+prima, in qua ducta per d recta parallela BC, secat
+diagonalem BD in r, et DC in t. Est autem Dt
+quatuor quintae semidiametri DC, sive, ut vulgo
+vocant, lateris cubi a DC.
+
+Quoniam enim AB, sive DC, est ad Dt, sive tr, ut
+5 ad 4, id est ut 10 ad 8, et quadratum a DC est
+10οε erit quadratum a Dt 64, et cubus a DC 1000
+quorum cubus a Dt est 512. Sed cubus a Dk aet
+pars octava cubi a DC, nempe 125. Est autem 512
+majus dimidio cubi a DC, quantum est 12: quia
+1000 duplum est 500. Similiter, cubus a Dt pro
+dimidio debet habere 256, quod majus est dimidio
+cubi a media majore, nempe 250, quantum, est 6.
+Et denique cubus qui ad DC et Dt, sive ad 512 et
+256, oet tertius proportionalis, nempe 128,major est
+cubo a dimidia semidiametro, nempe 125, quantum
+est 3.
+
+Non est ergo recta Dt, sive tr, major duarum
+mediarum inter totam DC et ejus dimidiam Dk,
+sed illa major quantum est duodecem millesimae
+

@@ -1,0 +1,43 @@
+Rosa-rum GBOMETRICUM. 27
+
+Sin quaeratur sectio tangentis 30 graduum‚quae1›onr.vm.
+praedictae secantis est dimidia, et latus cubi in- aff&
+scripti circulo cujus diameter est AB, sumatur se· “mem-’¹²¹2
+missis ipsius Ad, id est ad: ea erit segmentum ma-
+
+Jus, et reliqua pars tangentis erit segmentum minus,
+Similiter, si secanda sit AF proportionaliter, ducta
+AF secet ab in e, et erit Ae majus segmentum ejus,
+et eF segmentum minus t et dimidia Ae, majlb
+
+segmentum dimidiae AF.
+
+-———.
+
+PROP. IX.
+
+DE DIVISIONE ANGULI DATI.
+
+ANGULUM datum secare in data ratione.
+
+Sit angulus datus BAC: sitque ratio data, AB
+ad AD. Describatur arcus ADE: et secetur arcus
+Bc bifariam iu F. Quare ducta AF secabit quo-
+que DE bifariam (puta) in G. Ductae ergo chordae
+BF, DG erunt inter se ut rectae AB, AD.
+
+Applicentur duae chordae DG, GE ad arcum BF
+in 1 et K, ita ut chordae BI, IK sint aequales chor-
+dis DG, GE utraque utrique: ducanturque AI,
+AK, quarum AK secet arcum DE in L, ΑΙ secet
+arcum eundem in M.
+
+Dico arcum totum BC ita divisum esse in K, ut
+arcus BC, sive angulus datus BAC, sit ad arcum
+ΒΚ, sive angulum BAK, ut recta AB ad AD.
+
+Est enim chorda ΒΚ ad chordam DL, ut AB ad
+AD. Est etiam ut duae chordae BI‚IK ad duas
+chordas BM, ML, ita AB ad AD. Sed duae chordae
+131, 11( sunt, per constructionem, aequales duabus
+

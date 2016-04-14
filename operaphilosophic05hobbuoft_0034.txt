@@ -1,0 +1,44 @@
+26 ROSETUM GEOMETmcnm.
+
+paor. vm. Applicetur arcui km recta kp, aequalis ab. Erit
+
+„omne ergo arcus kp duae quintae arcus quadrantalis lem.
+
+”cunimu- Quod est primum. Sed arcus km (per Coroll. 4,
+prop. vii) aequalis est quinque semilateribus qua-
+drati ab AB. Quare arcus lep aequalis est ipsi lateri
+AB. Quod restabat demonstrandum.
+
+Consect. i. Si lateri BC adjiciatur recta CI aequa-
+lis ab, et centro B intervallo ΒΖ, describatur arcus
+quadrantalis ln, et juncta Bp producatur ad ln in o:
+ducta chorda lo aequalis erit arcui kp, sive lateri
+AB. Nam (per Elem. xiii, prop. 5) latus BC erit
+majus segmentum totius ΒΖ. Quare latus BC sub-
+tendit duas quintas arcus totius ln. Cum ergo
+angulus chp sit duae quintae anguli chm, etiam lo
+erit duae quintae arcus ln. Quare recta lo quae
+illum subtendit‚ est aequalis lateri BC, eademque
+aequalis arcui kp.
+
+Com-eet. ii. Manifestum hinc est, tum quadratum
+ipsum ABCD, tum omnes rectas ab A centro ad la·
+tus BC, (si opus sit, productum), secari ab ab (si
+opus sit, producta) in extremam et mediam ratio·
+nem. Nam quadratum ABCD dividitur eadem
+ratione qua ipsum latus AB in α. Item dividuntur
+ab eadem ab omnes rectae ductae ab A ad BC
+(quando opus est, productam) eadem ratione qua
+AB dividitur in α. Quare (per Elem. xiv. prop. 2)
+dividuntur in extremam et mediam rationem.
+
+Coroll. Apparet hinc inveniendi quarumcunque
+rectarum segmenta proportionalia methodus mani-
+festa et brevissima. Exempli causa: si quaeratur
+majus segmentum secantis 30 graduum. Ducatur
+AK, et producatur ad latus BC in G, quae est se-
+cans 30 graduum; secet ea rectam ab in d ς et Ad
+
+est segmentum majus; et residuum est segmentum
+mmus.
+

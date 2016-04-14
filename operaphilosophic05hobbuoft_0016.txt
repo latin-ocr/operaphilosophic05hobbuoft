@@ -1,0 +1,44 @@
+8 ROSETUM GEOMETRICUM.
+
+mor. ι. Consectarium. Sinus versus 30 graduum, nempe
+Dm GX vel Al, una cum differentia inter majus seg-
+¹³¹²⁰⁸³¹²⁰²⁸¹⁵ ‘³²⁰‘ mentum et semilatuS, nempe ly, aequalis est quar-
+tae parti lateris AD. Cum enim ME, El aequales
+
+sint EI, XI, utraque utrique: erit ΜΖ aequalis EX.
+
+Divisis ergo ΑΕ, ΕΙ) bifariam in a et b, erit ba
+
+aequalis EI. Quare al aequalis est ly: et ambae
+
+simul Al et Za aequales sunt Aa, quae est quarta
+
+pars lateris AD.
+
+ 
+
+PROP. II.
+
+DA'ro uno segmento rectae divisae extrema et media
+ratione, invenire alterum.
+
+Sit data recta AB segmentum majus rectae cu-.
+juscunque. Secetur AB bifariam in D. Et centro
+D, intervallo AD describatur circulus AFBE. De-
+inde ad punctum A erecta sit perpendicularis Ac,
+aequalis datae AB. Et ducatur per centrum D ad
+peripheriam concavam CE, cui sit facta aequalis
+
+Dico totam AG eandem habere rationem ad AB,
+quam habet AB ad BG. Quoniam enim (per 36.
+Elem. iii) est ut EC ad EF, ita EF ad FC, erit quo-
+que ut AG, aequalis ipsi EC, ad AB aequalem ipsi
+EF, ita AB ad BG aequalem ipsi FC. Quare, per
+definitionem extremae et mediae rationis, recta AG
+divisa est extrema et media ratione in puncto Β.
+
+Rursus sit BG segmentum minus cujuscunque
+rectae. Secetur BG data bifariam in C. Et centro
+C, intervallo CB describatur circulus BMG. In
+cujus circumferentia sumpto quadrante ΒΜ, duca-
+

@@ -1,0 +1,46 @@
+134 Lux MATHEMATICA.
+
+com-Roma· Similiter, radio DE describatur arcus Ed, cui
+
+stA XH-
+
+*Wd ducta DC occurrat in d : seceturque arcus Ed in tres
+
+partes aequales, quarum Ee sint duae, et Eg una:
+ducanturque rectae De, Dg, secantes Ae ins et k.
+
+Dico rectas Ac, Af esse duas medias inter AB et
+AC quaesitas.
+
+Quoniam enim angulus BDb divisus est bifariam
+a recta Di, erit (per Elem. vi, prop. 6) ut DB ad Dc
+ita Bi ad ic. Similiter, quia recta Dc dividit angu-
+lum z'DE bifariam, erit ut Dz' ad DE ita ic ad cE.
+Sunt ergo Bi, ic, cE continue proportionales: et
+propter eandem causam Es, sk, lcc continue pro-
+
+portionales.
+Sed ut AB ad AE, ita est AE ad AC, per con-
+
+structionem; et ita BE differentia ad EC differen-
+tiam. Quare recta DE dividit angulum BDC bifa-
+riam: et sunt tres anguli EDf, fch, kDO tribus
+angulis BDz', iDc, cDE singuli singulis aequales.
+Sunt ergo Di, ic, cE, Es, sk, kC continue propor-
+tionales. Quare et altitudines AB, AB minus Bi,
+Ai minus ic, Ac minus cE, ΑΕ minus Es, Af minus
+sk, Ale minus ko, sunt septem continue proportio-
+nales. Sunt ergo AB, Ac, Af, AC quatuor conti-
+'nue proportionales, quarum duae mediae sunt Ac, As.
+Inventae sunt ergo inter rectam datam et sui semis-
+sem duae mediae proportionales.
+
+Probandum restat, quod Bc, differentia inter
+primam ex illis quatuor et secundam, aequalis est
+C E, differentiae inter mediam ΑΕ et minimam Ac,
+vnempe rectae CE: quod sic ostendo. Quoniam
+ratio AB ad AC duplicata est rationis ΑΕ ad AC,
+etiam ratio AB ad CB (cum AC, CB sint aequales)
+duplicata est rationis ΑΕ ad CB: et propterea,
+duplicata etiam rationis BE ad EC. Si ergo sumatur
+

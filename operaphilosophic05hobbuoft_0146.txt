@@ -1,0 +1,43 @@
+138 Lux MATHEMATICA.
+
+conmnovssn- eadem est quam 12 sinus dimidii arcus ΒΙι. Major
+
+SIA ΧΠ.
+
+. , quoque quam 24 sinus quartae partis arcus BG: et
+
+major quam 48 sinus partis octavae arcus BG. Si-
+militer, si biseeentur partes aliquotae arcus BG quo-
+ties fieri potest, ita ut inter punctum B et chordam
+ipsius differentia nulla sit: toties multiplicata mi-
+nima, sumpta ut una recta, terminabitur in L.
+Quod si dicatur, nulla biseetione fieri posse ut
+chorda et ipsius arcus sint aequales, sed majorem
+semper fore areum quam chorda ejus: tune arcus
+totus non est bisectus toties quoties fieri potest.
+Quod est contra suppositum. Est ergo recta BL,
+quae componitur ex radio et tangente 30 graduum,
+aequalis arcui quadrantis BD: ut methodo eadem,
+cap. xxii libri De Principiis Gemma-trice, demon-
+stravit Hobbesius.
+
+PROPOSITIO 111.
+
+Datum angulum dividere in data ratione.
+
+Sit data ratio PF ad BP. A puncto F ad N du-
+eatur recta FN, secans arcum BG in s et AT in r.
+Ducatur item ΡΝ, secans arcum eundem BG in J}
+et rectam AT in ζ. Ergo, per primam, arcus f⁸
+est ad arcum Β] ut FB ad BP. Sed ut arcus ss ad
+arcum Rs, ita est angulus PAF ad angulum BAP.
+Quare ut angulus sAs ad angulum faB, ita est
+recta PF ad BP. Divisus ergo est angulus datus
+BAs in angulos duos, sAf, fAB, in data ratione FP
+ad BP. Quod erat faciendum.
+
+Notandum autem est, quando angulus datus ma-
+jor est quam tertia pars recti, sumenda est pars
+ejus aliquota quae minor sit quam BG, et dupli-
+canda vel multiplicanda per partium numerum.
+

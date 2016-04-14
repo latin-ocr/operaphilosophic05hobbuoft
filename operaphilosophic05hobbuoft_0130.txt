@@ -1,0 +1,44 @@
+CONTROVER-
+
+SIA VIII.
+ἓ-Γ-κ
+
+122 Lux MATHEMATICA.
+
+Supponatur datam esse rectam aequalem arcui
+
+AC, et ab ea descriptum arcum quadrantalem.
+Erunt ergo DC, CA, arcus super CA, continue pro-
+portionales.
+Scribantur seorsim DC : CA :z CA ε arcus super CA
+Et sub his DR : RS z: RS : arcus super RS
+Rursus sub his DT : TV22TV :arcus superTV.
+Erunt autem in singulis ordinibus antecedentes et
+consequentes ut semidiameter ad arcum quadrantis
+prorsum, et ut arcus quadrantis ad semidiametrum
+retrorsum.
+
+Ut ergo DC ad RS, ita est RS ad arcum super
+TV. Itaque DC, RS, arcus super TV erunt con-
+tinue proportionales. Et quoniam DC, CA, arcus
+super CA sunt etiam continue proportionales, ha-
+bentque antecedentem primam DC communem ε
+ratio arcus super CA ad arcum super TV, erit (per
+Euclid. xiv. 28) duplicata rationis CA ad RS. Et
+propterea arcus super RS est medius proportionalis
+inter arcum super CA et arcum super TV. Jam si
+DC major sit quam Rs, etiam RS major erit quam
+arcus super TV, et arcus CA major quam arcus su-
+per RS. Quare cum DC, CA, arcus super CA sint
+continue proportionales, arcus super TV, arcus su-
+per RS, arcus super CA non possunt esse continue
+proportionales. Quod est contra demonstrata.
+Non est ergo DC major quam RS.
+
+Supponatur rursus RS major quam DC: erit
+ergo arcus super RS medius proportionalis inter
+arcum super TV, et majorem quam est arcus
+super CA. Redibit ergo inconveniens. Quare
+semidiameter DC aequalis est arcui RS : et per con-
+sequens arcus TV, id est, duae quintae arcusCA, et
+

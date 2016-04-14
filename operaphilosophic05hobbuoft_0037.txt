@@ -1,0 +1,43 @@
+Rostrum emmeramum. 29
+
+que AN aequalis est lateri ΑΒ, Dico ΝΟ aequalem ιηιοι». x.
+esse tangenti arcus 224. neaman-‚rma
+
+Describatur arcus quadrantalis AC secans diago- “⁰⁸³⁸“2·
+nalem DB in M. Ducta ergo MN erit parallela
+lateri BC: et producatur MN utrinque ad latera
+AB, Dein L et Ο. Erit ergo Do aequalis sinui
+arcus graduum 45, sive semidiagonali DI. Secetpr
+quadratum ABCD a rectis EF, GH concurrentibus
+in 1, quadrifariam. Est ergo DO media proportio-
+nalis inter latus totum DC et ejus dimidium DH.
+Quare ut DC ad ΒΟ, ita est Do ad DH ; et ita dif-
+ferentia CO ad differentiam ΟΗ.
+
+Sunt autem CO, ΝΟ aequales, propter angulos ad
+C et N semirectOS. Quare ΝΟ potest duplam ΟΟ;
+etiam CO potest duplam OH ε cum enim latus DC
+potest duplam DO, et sunt DC, DO, OH continue
+proportionales, poterit CO duplam ΟΗ. Sunt ergo
+etiam ΗΟ, ΟΟ, ΝΟ continue proportionales, quia
+Nc potest duplam CO.
+
+Ducatur chorda DN: itaque angulus ODN erit
+angulus graduum 225. Secet autem chorda DN
+rectam CH in R, et erit HR aequalis ΗΟ.
+
+Quoniam ergo RH, ΝΟ, ΝΟ sunt continue pro-
+portionaloe in ratione lateris Dc ad Do, producta
+chorda DN ad latus DC in P abscindet partem ΟΡ
+aequalem rectae ΝΟ, id est, excessui diagonalis su-
+pra latus. Quare tangens arcus graduum 2223
+
+aequalis est excessui, etc. Quod erat demonstran-
+dum.
+
+Coroll. Sequitur hinc rectam BP aequalem esse
+duplae CO. Nam si centro C, intervallo CD, du-
+eatur arcus secans CA in a, erit aN dupla IN, et
+Aa aequalis ΝΟ : cum ergo aC et BC sint aequales,
+erit quoque aN, id est dupla CO, aequalis BP.
+

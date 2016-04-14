@@ -1,0 +1,38 @@
+ROSRTUM GEOMssTmctJM. 9
+
+tur per punctum n recta MK, ita ut Bn sit tertia nor. 11.
+pars datae BG. Deinde ducantur ΒΚ et GK; et nemum
+sumpta in ΒΚ parte Bo quae rectae Bn sit aequalis, ΠΜ “⁶¹¹³ “¹²
+ducatur 0123 cui parallela ducta sit BL, secans GK
+productam in L. Postremo, erigatur perpendicu-
+laris ad GL in puncto L, quae secet GB productam
+in D. Centro D, intervallo DB describatur circu-
+lus BLA. Dico GA esse ad AB ut AB ad BG.
+
+Quoniam enim angulus BKM in circumferentia
+insistit quadranti ΒΜ, erit ille semirectus, et de-
+tractus ab angulo recto BKG relinquit semirectum
+nKG. Et quia divisus est angulus BKG a recta nK
+bifariam, secabit recta Kn rectam BG ita ut sit ut
+Gn ad nB, ita GK ad KB (per 3. Elem. vi). Sed
+est Gm per constructionem dupla Bn. Itaque et
+GK est dupla KB. Et quoniam ponitur Bo aequa-
+lis Bu, erit angulus onB aequalis angulo Bon. Et
+quoniam parallelae sunt no et BL, erit angulus LBD
+aequalis angulo onB. Item, quia parallelae sunt
+perpendiculares LB et no, erunt anguli DLB et Bon
+aequales. Sunt autem Bon et Bno aequales. Itaque
+DLB et Bno sunt aequales. Sed Bno et DBL sunt
+aequales. Ergo DLB et DBL sunt aequales. Ergo
+et rectae DL, DB illis subtensae, sunt aequales. Ita·
+que circulus descriptus intervallo DB, transibit per
+punctum L. Et quia DL perpendicularis est ad
+GL, tanget GL circulum BLA in L. Erit ergo
+(per 36. Elem. iii) ut GA ad GL, ita GL ad GB.
+Est autem AB ipsi GL aequalis. Nam cum GK du-
+pla sit ΒΚ, erit et GL dupla rectae LD. Ejusdem
+autem dupla est recta BA, et proinde aequalis rec-
+tae GL. Itaque erit quoque ut GA ad AB, ita AB
+ad BG: et per consequens rectae datae addidimus
+aliam majorem, etc. Quod erat faciendum.
+

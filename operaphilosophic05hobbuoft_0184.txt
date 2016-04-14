@@ -1,0 +1,41 @@
+176 PRINcimA Er PROBLEMATA
+
+CAP. VI.
+
+De ratione perimetri ad radium circuli.
+
+cn. v1. 1. Ancus quadrantalis aequalis est radio una cum
+De ,250oe peri, tangente 30 graduum.
+
+ssjgffii‘jdfflfflum Sit radius (fig. ii) AB, semiradius BE vel AF.
+Ducta ergo EF, erit rectangulum ABEF dimidium
+quadrati a radio AB. Describatur radio AB arcus
+BG, secans EF in G. Ducta ergo AG et producta
+ad BE productam in H, erit BH tangens 30 gra-
+duum, et BG tertia pars arcus quadrantalis de-
+scripti ab AB. Deinde a puncto G ad latus AB
+ducatur perpendicularis GI. In producta BA su-
+matur AN dupla AI, ut IN sit tripla IA. Ducatur
+denique NG, secans AF in T, et producatur ad BH
+m q. ,
+
+Dico Bq rectam aequalem esse arcui BG.
+
+Super AT describatur arcus quadrantalis ST.
+Quoniam ergo triangula NIG, NAT sunt similia,
+erit AT duae tertiae rectae GI semiradii, id est, tertia
+pars totius radii.
+
+Quoniam ergo AT est tertia pars radii, erit arcus
+ST aequalis arcui BG. Secetur BG bifariam in i,
+et AT bifariam in M, ducaturque ib perpendicularis
+ad AB: eritque AM sexta pars radii AB, et arcus
+YM aequalis arcui Bi, et ut Nb ad NA ita erit bi ad
+AM. Ducta ergo NM, et producta, transibit peri:
+producatur autem ad BH in Q. Producatur autem
+bi ad concursum cum Nq in t: eritque bt dupla bi,
+et aequalis chordae arcus BG. Est enim sinus rec-
+tus dimidii arcus cujuslibet semissis chordae dupli
+arcus. RursuS, bisecetur arcus Bi in e, et AM in
+L, ducaturque ea ad AB perpendicularis: eritque
+

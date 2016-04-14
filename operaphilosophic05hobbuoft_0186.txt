@@ -1,0 +1,43 @@
+178 PRINCIPIA ET PROBLEMATA
+
+cn». v1. quantulacunque major erit sua chorda, sed etiam
+ΒΟ mmm„ peri, partes ejus omnes omnibus: ita ut nullus arcus rectae
+:Jffgffnff‘l “mium aequalis esse possit. Sed neque ulla erit linea ducta,
+neque sinus, neque arcus aut figura. Linea enim
+
+sine latitudine nihil est, et dimidium ejus tantundem.
+
+Est ergo Bq aequalis arcui BG, id est, tertiae parti
+arcus quadrantalis descripti radio AB.
+
+Quoniam autem triangula GTF, EGq sunt rect-
+angula et similia, et TF tertia pars semiradii AF:
+erit Eq tertia pars EH, excessus tangentis BH suprax
+semiradium BE. Tripla ergo Bq, id est, arcus
+quadrantalis descriptus radio AB, aequalis est triplo
+semiradio una cum tripla Eq, id est radio AB una
+cum tangente 30 graduum, hoc est una cum BH.
+Quod erat demonstrandum.
+
+11. Si produceretur Bq donec triplicaretur, et AF
+donec duplicaretur, manifestum est rectam ductam
+a puncto N per terminum duplicatae AF, abscissu-
+ram esse in recta BH producta rectam aequalem
+compositae ex radio et tangente 30 graduum. Sed
+ut recta ducta a puncto N transiens AD productam,
+dividat etiam id quod restat arcus totius per BG
+proportionaliter, impossibile est. Quia si duceretur
+per punctum G, tangens ad punctum G, recta GA
+producta donec aequalis esset rectae BN faceret idem
+quod BN ε et propterea rectae a puncto N per reli-
+quam partem arcus id non facerent.
+
+Scholium.
+
+111. Quoniam arcum quadrantalem iu Roseto
+aequalem ostendi esse rectae cujus quadratum decu-
+plum est quadrati a semiradio, et eundem nunc
+arcum aequalem esse rectoe compositae ex radio et
+tangente 30 graduum: demonstrabo hoc loco, ex
+principiis clarissimis, quadratum a recta illa eom-
+

@@ -1,0 +1,53 @@
+180 PRINCIPIA ET PROBLEMATA
+
+cn. v1. quadratus ab 8 est 64: et hi quadrati sunt deinceps
+
+De „mone peri, proximi. Quare, per cap. iv, num. eundem, dempta
+
+ffljfflfiffd ‘mium unitate a medio quadrato 49, relinquitur 48 medius
+
+proportionalis inter 64 et 36, sive radix numeri 64
+
+multiplicati in 36. Est autem 48 quadratum tan-
+
+gentis 30 graduum in quadrato²“< 144. Quoniam
+
+autem 360 decuplum est quadrati a semilatere BE,
+
+id est, ad quadratum 144 ut 10 ad 4 : tangens 30
+
+graduum in quadrato 360 erit ad quadratum tan-
+
+gentis etiam ut 10 ad 4. Sed tangens 30 graduum
+
+in quadrato 360, nimirum pars ejus tertia, est 120:
+
+qui numerus est ad 48, quadratum tangentis in
+
+quadrato 144, ut 10 ad 4. Est ergo 360 quadra-
+
+tum a recta composita ex radio et tangente 30 gra-
+
+duum, quae recta composita est BL. Quod erat
+demonstrandum.
+
+1v. In recta Ic sumatur Ie aequalis rectae CI, et,
+juncta ΒΕ, arcus circuli descriptus radio Be trans-
+ibit per L. Nam BI potest novem quadrata semi-
+lateris, quorum Ie potest unum. Ergo Be potest
+decem semilatera: transit ergo arcus ab illa descrip-
+tus per L.
+
+v. Non est praetereunda hoc loco difficultas
+quaedam quam capite xxiii libri De Principiis etc.-
+notavi quidem, solvendam autem lectoribus relin-
+quere visum erat. Hujus solutio illuminandae
+facilitandaeque geometriae valde expedibit. Diffi-
+cultas autem haec est. Quadratum CLYH, quod
+est quadratum tangentis 30 graduum et aequale per
+constructionem BabS, est ad quadratum Clelz* ut 4
+ad 3, ut vulgo notum est. Quoniam ergo gnomon
+ILZchM* aequalis esse debet triplo gnomoni ILYehH,
+
+⁴* Sic edit. 1674.
+

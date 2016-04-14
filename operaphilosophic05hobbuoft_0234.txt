@@ -1,0 +1,45 @@
+PROP. V.
+
+226 TnAc‘rA'rus OPTICUS.
+
+ut via qua motus propagatur, in qua eadem omnia
+accidunt lateri AB, quae lateri CD. Nam et utrum-
+que latus est perpendiculare ad {s
+
+planum BD, et aequalis est ope- *12 ν. Δ ἰ
+ratio ab A ad B, et a C ad D, vel ss ‘³ ’Ἰ ι
+a tota AC ad totam BD. Quare
+
+aeque considerare motum possu-
+
+mus in AB, vel in CD, vel in tota linea ABCD.
+Possumus ergo considerare radium ABCD sine la-
+titudine, hoc est ut linea mathematica. Sed in in-
+cidentia obliqua, ubi operatio ab F ad planum in H
+in majori est distantia quam ab E in G, non potest
+considerari EFGH ut linea mathematica: quia sic
+consideraretur EF ut punctum mathematicum,
+quod tamen consideratur uno termino operari lon-
+gius quam altero, hoc est, consideratur ut habens
+terminos, hoc est, non ut punctum. Itaque si con-
+sideraremus lineam oblique incidentem ut mathe-
+maticam, consideraremus EF ut punctum et non
+punctum, quod est absurdum.
+
+' Postulatum.
+
+Postulamus, latera radii exire a linea quae ipsa
+conjungit ad angulos rectos, modo sint et latera et
+linea lucis in eodem medio. Exempli gratia, sit
+
+radius luminis ABCD, cujus latera ¹³ ⁴
+sunt AD et BC, linea autem quae ipsa ff’
+conjungit AB, quam lineam voco li-
+
+neam lucis, Postulo hic nihil aliud,
+
+quam ut lucidum operetur totis viribus: nam si la·
+tera radii exirent ab AB linea lucis oblique, ut ΑΕ
+et BF, non ageret lucidum totis viribus, sed dimi-
+nutiS, ea scilicet ratione quam habet AG ad AB.
+

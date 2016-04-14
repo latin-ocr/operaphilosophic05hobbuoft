@@ -1,0 +1,42 @@
+40 ROSETUM GEOMETRICUM.
+
+PROP. xvn. BK: quae pars est tertia quadrantis circuli de-
+
+„ffifi scripti ab AB ut semidiametro. '
+
+³⁰¹1¹¹²¹¹⁰⁸⁸‘⁰‘⁰· Semidiametro BP describatur arcus Ρθ, in quo
+sumatur ΡΘ aequalis arcui γζ. Ducta ergo Βθ aequa-
+lis erit ay, id est lateri icosaedri in sphaera cnjus
+diameter est EF. Radio ergo Βθ descriptus arcus
+circuli secans BP, dabit latus icosaedri: quod latus
+si sit ipsum Be, erit tertia pars rectae Bb, id est
+tertia pars arcus AC sive semicirculi super diame-
+tro EF. Ut manifestum est ex Com-eet. 3, prop. vii.
+
+Ratio ergo reddenda est quare αγ sive Βθ aequalis
+debeat esse tertiae parti arcus AC, id est arcui CK.
+Quae quidem ratio facilius reddi posset ab intuitu
+ipsius icosaedri solidi. Sed quoniam in plano ex·
+poni non potest, proximum est ut describamus
+quatuor triangula quorum viginti faciunt icosaedri
+superficiem, et ea positione qua Clavius ea disponit
+ad finem prop. 16, Elem. xiii. Sunt ergo illa tri-
+angula DMN, MNO, NOQ, QOR.
+
+In ea figura sit sphaerae polus D. Erunt ergo
+puncta D, Μ, Ν, Ο, Q, R in superficie sphaerae cou-
+cava : et propterea rectae MN, ΝΟ, OQ non erunt
+in eodem plano cum punctis D et R, quae suntin
+plano per diametrum sphaerae.
+
+Quare latus icosaedri procedit a polo D ad polum
+R per quinque rectas aequales, nimirum a D ad M,
+ab M ad Ν, ab N ad O, ab O ad Q‚a Qad R. In
+motu autem primo a D ad M promovetur versus R.
+Rursus, ab M ad N non promovetur versus R.
+Tertio ab N ad Ο promovetur quantum a, D ad M.
+Quarto ab Ο ad Q non promovetur versus R.
+Quinto a Q promovetur ad ipsum punctum R.
+ltaque per quinque rectas aequales, quae latera sunt
+icosaedri, fit motus a polo ad polum. Sed propter
+

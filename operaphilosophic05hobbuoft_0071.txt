@@ -1,0 +1,45 @@
+CENSURA BREVIS. 63
+
+PROPOSITIO 11.
+
+Ubi ratio ex· duabus pluribusve componitur, datis
+componentibus, datur composita. Nempe, multi-
+plicatis invicem exponentibus componentium, ut
+habeatur exponens compositoe.
+
+Pmpositio quidem vera est, nempe, ubi ratio gx
+rationibus componitur, datis componentibus, datur
+composita. Reliquum falsum est. Sed ille nil de-
+monstrat. Quod ut certius scias, cum dependeat
+a defin. 5, Elem. vi Euclidis, definitionem illam per-
+spicue tibi explicabo.
+
+Definitio ibi tradita haec est: ratio ex rationibus
+componi dicitur, cum rationum quantitates inter se
+multiplicata· aliquam effecerint rationem.
+
+Exponantur enim duae rationes, A ad B, et C ad
+D. Ratio A ad B exponitur a duabus lineis vel
+numeriS‚ A et Β. Ratio enim nisi a duabus lineis
+vel numeris antecedente et consequente exprimi, id
+est exponi, non potest: nec duae rationes nisi a qua-
+tuor. Antecedens et consequens prioris rationis
+appellantur hic ab Euclide, quantitates rationis
+prioriS, nempe A et B. Quantitates autem rationis
+secundae, C et D.
+
+Ex his quatuor si duae antecedenteS, A et C, inter
+se multiplicentur, ut factus sit AC, sive rectangu-
+lum AC; et similiter consequentes B et D, ut factus
+sit BD; pronuntiat Euclides rationem AC ad BD
+componi ex rationibus A ad B et C ad D. Quod
+est verissimum.
+
+Exempli causa: sit A aequalis 2, Β aequalis 3, C
+aequalis 4, D aequalis 7. Quare multiplicatis inter
+se A et C, factus erit 8. Et C, D multiplicatis inter
+se, factus erit 21. Ratio ergo 8 ad 21 componitur,
+
+PRoP. 11.
+κ--Υ--α
+

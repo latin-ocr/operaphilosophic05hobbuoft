@@ -1,0 +1,46 @@
+130 Lux MATHEMATICA.
+
+conmovmz- aequales: etiam anguli tum* ad C et L recti aequales:
+
+SIA ΧΠ.
+
+,Ἀρ-κ aequalia erunt ipsa trilinea. Et propterea, aequalia
+
+etiam sunt triangula DPQ, DVK: et ambo simul
+aequalia triangulo DYQ: majora autem sunt sectore
+toto DCL tanto quantum est duplum trilineum
+PQL mulctatum sectore DPV, id est, sector DCL
+aequalis est duplo triangulo DPQ 4DPV-2PQL.
+
+Rursus, jungatur qv, Cum ergo Dq, per con-
+structionem, aequalis sit DY, vel ΥΘ, erit qv aequalis
+YP sive PQ: adeoque qVK est una linea recta, et
+triangulum DqK divisum bifariam a recta DV, idem-
+que aequale triangulo DYQ et sector DPV dupli-
+catus est per superpositionem, et triangula qu,
+DYP aequalia tum inter se tum triangulo DPQ.
+
+Est autem sector DCL aequalis duobus triangulis
+qu, DYP ÷duplo CYP-DPV sectore, propter sec-
+torem DPV triangulis DqV‚ DYP immersum et bis
+numeratum. Quoniam ergo idem sector DCLaequalis
+ostensus est duplo triangulo DPQ÷DPV-2PQL, et
+est duplum triangulum DPQ aequale duobus trian-
+gulis DqV, DYP ε erit duplum trilineum CYP-—DPV
+aequale sectori DPV-2PQL. Habemus ergo aequa-·
+tionem hanc: 2CYP-DPV—-DPV-2PQL. ⁴
+
+Quare cum mediae quantitates, —DPV et DPV·
+simul additae aequales sunt nihilo : 2CYP et -2PQL
+faciunt nihil. Sunt ergo CYP, PQL trilinea aequalia.
+Quod erat demonstrandum.
+
+Itaque inventa est ab Hobbesio, non modo ratior
+circumferentiae circuli ad lineam rectam, sed etiam
+areae quadrantis ad quadratum ipsi circumscriptum.
+
+Manifestum ergo est, quaecunque proferuntur in
+contrarium esse falsa. Proferuntur autem in con-
+
+* Sic edit. 1672.
+

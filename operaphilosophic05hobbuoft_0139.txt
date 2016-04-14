@@ -1,0 +1,49 @@
+Lux ΜΑΤΗΕΜΑΉΟΑ, 131
+
+trarium ab Wallisio, prime, demonstratio Archi· commoven-
+medis per numerorum radicae: quae ad Controv. iv ¹¹¹¹¹¹¹
+clarissime ostenditur esse invalida. Secundo, Eu-
+
+clidis propositio 20 Elem. vi, qua affirmat rationem
+quadrati ad quadratum duplicatam esse rationis
+
+lateris ad latus : de qua dicemus paulo post. Re-
+
+pugnat enim non solum longitudini circumferentia
+
+circuli inventae ab Hobbesio, sed etiam propositioni
+
+xix Ilo-neti, qua inventae sunt duae mediae inter rec-
+
+tam datam et ipsius dimidiam: idque sola additione
+
+et substractione, ubi minus pronum est errare.
+
+Quare hoc loco vindicanda est propositio xix
+Roscii, et demonstrandum quod quatuor rectae DC,
+Ζι· vel DZ, De, Dk sunt continue proportionales. ’
+Quod sic demonstro.
+
+Recta Lh secet arcum BD in M: erit ergo Dlae
+media proportionalis inter Dc et Dk, utpote aequalis
+semidiagonali DI. Sunt ergo DC, Db, Dlt continue
+proportionales: et ut DC ad Dh, sive ut DJ» ad Dle,
+ita est differentia Ch ad differentiam Me. Est autem
+cM media proportionalis inter duplam Ch et ipsam
+Ch: quia Ch, ΙιΜ sunt aequales. Item, ducta DM
+secante lk in N, erunt kh, kN aequales: item ΝΙι,
+hc oequaloe. Ratio ergo rectae DC ad Dk, duplicata
+est rationis Ch ad kk.
+
+Quoniam ergo ostensum est ad Controv. viii,
+arcum BD vel CA aequalem esse radio BC et tan-
+genti 30 graduum simul sumptis, et rectam DZ vel
+ze esse dimidium arcus BD; et ad Controv. ix,
+rectam ela aequalem esse dimidiae tangenti 30 gra-
+duum: erit kL aequalis Ch, et propterea CZ aequalis
+
+Est ergo ratio DC ad Bk, id est ad ke, duplicata
+rationis kz ad ZC.
+
+K ‘2
+

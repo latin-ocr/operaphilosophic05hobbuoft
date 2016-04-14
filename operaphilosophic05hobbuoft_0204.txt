@@ -1,0 +1,47 @@
+CAP. X.
+κ--ψ-..κ
+
+Iterum de solidis
+et eorum super-
+ficiebus etc.
+
+196 PmNcu’lA ET PROBLEMATA
+
+cylindri convexa facta sit a perimetro circuli qui
+est cylindri basis operante uniformiter: si perime-
+ter quae sit dupla perimetri basis, ejusdem temporis
+dimidio quidem operetur, dimidio autem cesset,
+efficiet tantundem, per Lemma praecedens. Sed
+perimeter circuli cujus radius est HG, dupla est pe-
+rimeter baseos BC: et circulus ab HG fit a radio
+HG aequali BC motu circulari, id est tantundem
+quantum operatur cessante, nimirum, pereunte ra-
+dio BC inter operandum pro ratione temporum in
+quo operatur. Est ergo circulus cujus radius est
+HG, qui quadruplus est circuli qui est cylindri ba-
+sis, aequalis superficiei convexae cylindri ABCD.
+Atque haec brevis, clara, et naturalis est deducta a
+causa efficiente demonstratio: sed qua uti Archi·
+medes non potuit, obtinente tunc temporis senten-
+tia, considerari debere lineam semper sine omni
+latitudine ut nihil: et propterea superficiem a motu
+lineae nullo modo describi posse ι unde demonstra-
+tione ducente ad impossibile, longissima, et a solius
+Archimedis ingenio superabili propter aliorum prae-
+judicia uti coactus est.
+
+111. Cylindrus rectus coni recti sibi inscripti est
+triplus. Cylindrus enim fit a motu uniformi cir-
+culi BC, (circuli dico, non perimetri), qui est basis
+communis tum cylindri ABCD, tum coni BHC.
+Habent autem circuli rationem duplicatam ejus
+quam habent eorum diametri. Circulus BC ad cir-
+
+‹culum ab est in duplicata ratione diametri BC ad
+
+diametrum ab, et sic ubique. Circulus autem BC,
+dum facit conum BHC, perdit inter operandum de
+sua magnitudine ubique juxta duplicatam rationem
+diametri BC ad diametrum ab. Sed, ut ostensum
+est cap. ii, art. 9, quando mediae proportionales tum
+

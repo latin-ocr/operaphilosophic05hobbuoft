@@ -1,0 +1,30 @@
+PROP. ΧΠ.
+
+242 TRACTATUS OPTICUS.
+
+major semper est sinus. Et est jam ostensum, esse
+ut sinus anguli inclinationis ad sinum anguli re-
+fracti, ita sinum alterius anguli inclinationis ad si-
+num anguli in illa inclinatione refracti.
+
+PROPOSITIO XIII.
+
+Si duo radii aequaliter inclinati procedant ad pla-
+num diversi medii, alter α medio raro in densum,
+alter a medio denso eodem in medium rarum,
+sinus anguli refracti in raro, sinus anguli in-
+clinationis, et sinus anguli refracti in denso,
+erunt continue proportionales,
+
+Sit CB planum dividens duo media, quorum pri-
+mum sit rarum, secundum densius: et sit AC ra-
+dius inclinatus ad planum CB in quocunque angulo
+
+ 
+
+ACB. Ducatur AB perpendicularis ad AC secans
+planum in B, et compleatur parallelogrammum
+ABCD. Quo tempore igitur punctum A venit ad
+planum in C, eodem, si media essent ejusdem na-
+turae, immergeretur punctum B subter planum
+
